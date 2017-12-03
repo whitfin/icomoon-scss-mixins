@@ -1,0 +1,20 @@
+{
+  "name": "icomoon-scss-mixins",
+  "version": "1.0.0",
+  "description": "Small mixin utilities for using IcoMoon sets with SCSS",
+  "license": "MIT",
+  "author": {
+    "name": "Isaac Whitfield",
+    "email": "iw@whitfin.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/whitfin/icomoon-scss-mixins.git"
+  },
+  "keywords": [
+    "scss",
+    "icons",
+    "icomoon",
+    "mixins"
+  ]
+}
